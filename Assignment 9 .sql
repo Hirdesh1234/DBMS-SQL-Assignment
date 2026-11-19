@@ -1,3 +1,4 @@
+--Assignment 9: Aliases and CASE Code:
 SELECT Name AS StudentName,
 Age AS StudentAge
 FROM Student;
