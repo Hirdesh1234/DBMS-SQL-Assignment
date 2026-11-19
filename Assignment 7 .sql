@@ -1,3 +1,4 @@
+--Assignment 7: Using Aggregate Functions Code:
 SELECT COUNT(*) AS TotalStudents FROM Student;
 
 SELECT SUM(Age) AS TotalAge FROM Student;
