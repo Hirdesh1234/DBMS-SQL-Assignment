@@ -1,3 +1,4 @@
+--Assignment 3 : Selecting Columns and Rows with WHERE Code:
 SELECT Name, City FROM Student;
 
 SELECT * FROM Student
