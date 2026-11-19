@@ -1,3 +1,8 @@
+--Name - Hirdesh
+--RollNo - 2410303208
+--Assignment - 1
+
+
 CREATE TABLE students (
     id INT PRIMARY KEY,
     name VARCHAR(50),
