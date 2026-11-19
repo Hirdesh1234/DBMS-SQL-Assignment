@@ -1,3 +1,4 @@
+--Assignment 4 :Combining Conditions Code:
 SELECT * FROM Student
 WHERE Age >= 20 AND City = 'Mumbai';
 
