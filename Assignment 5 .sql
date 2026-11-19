@@ -1,3 +1,4 @@
+--Assignment 5 :Pattern Matching with LIKE Code:
 SELECT * FROM Student
 WHERE Name LIKE 'R%';
 
