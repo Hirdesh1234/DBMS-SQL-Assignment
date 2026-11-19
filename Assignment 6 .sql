@@ -1,3 +1,4 @@
+--Assignment 6: Sorting Rows and Removing Repeats Code:
 SELECT * FROM Student
 ORDER BY Age ASC;
 
