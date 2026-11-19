@@ -1,6 +1,7 @@
 --Name - Hirdesh 
 --RollNo - 2410303208
 --Assignment - 2
+--Assignment 2 :Updating and Deleting Rows Code:
 UPDATE Student
 SET City = 'Mumbai'
 WHERE RollNo = 1;
