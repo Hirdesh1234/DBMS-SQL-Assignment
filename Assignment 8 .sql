@@ -1,3 +1,4 @@
+--Assignment 8: Grouping Rows and Using HAVING Code:
 SELECT City, COUNT(*) AS TotalStudents
 FROM Student
 GROUP BY City;
