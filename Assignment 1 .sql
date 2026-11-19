@@ -2,7 +2,7 @@
 --RollNo - 2410303208
 --Assignment - 1
 
-
+--Assignment 1 : Creating a Table and Adding Rows Code:
 CREATE TABLE students (
     id INT PRIMARY KEY,
     name VARCHAR(50),
